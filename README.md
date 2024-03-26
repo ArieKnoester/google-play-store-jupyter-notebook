@@ -1,8 +1,12 @@
 # google-play-store-jupyter-notebook
 
-Work in progress
-
 A Jupyter Notebook which looks at data for apps in Google's Play Store.
+
+Contains exmaples of:
+* Removing duplicates and NaN values.
+* Plotly charts (pie, donut, bar, grouped bar, scatter, and box plots).
+* Examples of updating chart layouts.
+* Extracting data from a column which contains multiple values, then stacking them.
 
 ## NOTE: 
 
