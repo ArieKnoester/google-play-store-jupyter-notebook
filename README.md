@@ -10,6 +10,6 @@ Contains exmaples of:
 
 ## NOTE: 
 
-Graphs created using plotly do not render on GitHub. I found some code that will show plotly graphs through [NBViewer](https://nbviewer.org/),
-but then the graphs won't render locally. I might create another branch on this repo, so that the notebook in the alternate branch can be used
-to see the plotly graphs through NBViewer.
+Graphs created using plotly do not render on GitHub. They can be viewed by copying the URL for the .ipynb file in this repo and using [NBViewer](https://nbviewer.org/)
+or by using [this link](https://nbviewer.org/github/ArieKnoester/google-play-store-jupyter-notebook/blob/main/Google_Play_Store_App_Analytics.ipynb).
+Plotly graphs should render and hover data should work.
